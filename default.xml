@@ -8,6 +8,12 @@
            remote="aosp"
            sync-j="4" />
 
+  <remote  name="github"
+           fetch="https://github.com" />
+
+  <remote  name="MrTumbles"
+           fetch="https://github.com" />
+
   <project path="build" name="platform/build" groups="pdk,tradefed" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
