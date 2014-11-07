@@ -514,4 +514,15 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
 
+  <!-- Custom projects -->
+
+  <!-- Euphoria-OS vendor -->
+  <project path="vendor/eos" name="Euphoria-OS/android_vendor_eos" remote="github" revision="lollipop" />
+
+  <!-- External -->
+  <project path="external/busybox" name="Euphoria-OS/android_external_busybox" remote="github" revision="lollipop" />
+
+  <!-- Apps -->
+  <project path="packages/apps/CMFileManager" name="Euphoria-OS/android_packages_apps_CMFileManager" remote="github" revision="lollipop" />
+
 </manifest>
