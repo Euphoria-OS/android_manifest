@@ -522,6 +522,7 @@
   <project path="vendor/eos" name="Euphoria-OS/android_vendor_eos" remote="github" revision="lollipop" />
 
   <!-- External -->
+  <project path="external/android-visualizer" name="Euphoria-OS/android_external_android-visualizer" remote="github" revision="lollipop" />
   <project path="external/busybox" name="Euphoria-OS/android_external_busybox" remote="github" revision="lollipop" />
   <project path="external/libtruezip" name="Euphoria-OS/android_external_libtruezip" remote="github" revision="lollipop" />
   <project path="external/zip" name="Euphoria-OS/android_external_zip" remote="github" revision="lollipop" />
