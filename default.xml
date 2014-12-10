@@ -532,10 +532,10 @@
   <project path="external/koush/Widgets" name="Euphoria-OS/android_external_koush_Widgets" remote="github" revision="lollipop" />
 
   <!-- Apps -->
-  <project path="packages/apps/Apollo" name="Euphoria-OS/android_packages_apps_Apollo" remote="github" revision="lollipop" />
+  <project path="packages/apps/AudioFX" name="Euphoria-OS/android_packages_apps_AudioFX" remote="github" revision="lollipop" />
   <project path="packages/apps/CMFileManager" name="Euphoria-OS/android_packages_apps_CMFileManager" remote="github" revision="lollipop" />
   <project path="packages/apps/CustomWallpapers" name="Euphoria-OS/android_packages_apps_CustomWallpapers" remote="github" revision="lollipop" />
-  <project path="packages/apps/DSPManager" name="Euphoria-OS/android_packages_apps_DSPManager" remote="github" revision="lollipop" />
+  <project path="packages/apps/Eleven" name="Euphoria-OS/android_packages_apps_Eleven" remote="github" revision="lollipop" />
   <project path="packages/apps/OTACenter" name="Euphoria-OS/android_packages_apps_OTACenter" remote="github" revision="lollipop" />
   <project path="packages/apps/TouchControl" name="Euphoria-OS/android_packages_apps_TouchControl" remote="github" revision="lollipop" />
 
