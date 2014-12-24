@@ -525,9 +525,6 @@
   <project path="external/android-visualizer" name="Euphoria-OS/android_external_android-visualizer" remote="github" revision="lollipop" />
   <project path="external/busybox" name="Euphoria-OS/android_external_busybox" remote="github" revision="lollipop" />
   <project path="external/google" name="Euphoria-OS/android_external_google" remote="github" revision="lollipop" />
-  <project path="external/libtruezip" name="Euphoria-OS/android_external_libtruezip" remote="github" revision="lollipop" />
-  <project path="external/zip" name="Euphoria-OS/android_external_zip" remote="github" revision="lollipop" />
-  <project path="external/unrar" name="Euphoria-OS/android_external_unrar" remote="github" revision="lollipop" />
 
   <!-- Koush's Superuser -->
   <project path="external/koush/Superuser" name="Euphoria-OS/android_external_koush_Superuser" remote="github" revision="lollipop" />
@@ -535,7 +532,6 @@
 
   <!-- Apps -->
   <project path="packages/apps/AudioFX" name="Euphoria-OS/android_packages_apps_AudioFX" remote="github" revision="lollipop" />
-  <project path="packages/apps/CMFileManager" name="Euphoria-OS/android_packages_apps_CMFileManager" remote="github" revision="lollipop" />
   <project path="packages/apps/CustomWallpapers" name="Euphoria-OS/android_packages_apps_CustomWallpapers" remote="github" revision="lollipop" />
   <project path="packages/apps/Eleven" name="Euphoria-OS/android_packages_apps_Eleven" remote="github" revision="lollipop" />
   <project path="packages/apps/LockClock" name="Euphoria-OS/android_packages_apps_LockClock" remote="github" revision="lollipop" />
