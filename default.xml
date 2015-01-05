@@ -526,9 +526,8 @@
   <project path="external/busybox" name="Euphoria-OS/android_external_busybox" remote="github" revision="lollipop" />
   <project path="external/google" name="Euphoria-OS/android_external_google" remote="github" revision="lollipop" />
 
-  <!-- Koush's Superuser -->
-  <project path="external/koush/Superuser" name="Euphoria-OS/android_external_koush_Superuser" remote="github" revision="lollipop" />
-  <project path="external/koush/Widgets" name="Euphoria-OS/android_external_koush_Widgets" remote="github" revision="lollipop" />
+  <!-- Su -->
+  <project path="system/extras/su" name="Euphoria-OS/android_system_extras_su" remote="github" revision="lollipop" />
 
   <!-- Apps -->
   <project path="packages/apps/AudioFX" name="Euphoria-OS/android_packages_apps_AudioFX" remote="github" revision="lollipop" />
