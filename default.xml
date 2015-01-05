@@ -255,7 +255,7 @@
   <project path="external/robolectric" name="platform/external/robolectric" groups="pdk-cw-fs" />
   <project path="external/safe-iop" name="platform/external/safe-iop" groups="pdk" />
   <project path="external/scrypt" name="platform/external/scrypt" groups="pdk" />
-  <project path="external/sepolicy" name="Euphoria-OS/android_external_sepolicy" groups="pdk" remote="github" revision="lollipop" />
+  <project path="external/sepolicy" name="Euphoria-OS-Legacy/android_external_sepolicy" groups="pdk" remote="Euphoria-OS-Legacy" revision="lollipop" />
   <project path="external/sfntly" name="platform/external/sfntly" groups="pdk-cw-fs,qcom_msm8x26" />
   <project path="external/skia" name="platform/external/skia" groups="pdk-cw-fs,qcom_msm8x26" />
   <project path="external/smack" name="platform/external/smack" groups="pdk-cw-fs" />
@@ -343,7 +343,7 @@
   <project path="hardware/intel/img/psb_headers" name="platform/hardware/intel/img/psb_headers" groups="intel" />
   <project path="hardware/intel/img/psb_video" name="platform/hardware/intel/img/psb_video" groups="intel" />
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" />
-  <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" />
+  <project path="hardware/libhardware" name="Euphoria-OS/android_hardware_libhardware" groups="pdk" remote="github" revision="lollipop" />
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" groups="pdk" />
   <project path="hardware/nvidia/audio" name="platform/hardware/nvidia/audio" groups="nvidia_audio" />
   <project path="hardware/nvidia/tegra124" name="platform/hardware/nvidia/tegra124" groups="tegra124" />
@@ -358,7 +358,7 @@
   <project path="hardware/qcom/msm8x27" name="platform/hardware/qcom/msm8x27" groups="qcom_msm8x27" />
   <project path="hardware/qcom/msm8x74" name="platform/hardware/qcom/msm8x74" groups="qcom_msm8x74" />
   <project path="hardware/qcom/msm8x84" name="platform/hardware/qcom/msm8x84" groups="qcom_msm8x84" />
-  <project path="hardware/qcom/power" name="Euphoria-OS/android_hardware_qcom_power" groups="qcom" remote="github" revision="lollipop" />
+  <project path="hardware/qcom/power" name="platform/hardware/qcom/power" groups="qcom" />
   <project path="hardware/qcom/sensors" name="platform/hardware/qcom/sensors" groups="qcom" />
   <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan" groups="qcom_wlan" />
   <project path="hardware/ril" name="platform/hardware/ril" groups="pdk" />
@@ -523,7 +523,7 @@
 
   <!-- External -->
   <project path="external/android-visualizer" name="Euphoria-OS/android_external_android-visualizer" remote="github" revision="lollipop" />
-  <project path="external/busybox" name="Euphoria-OS/android_external_busybox" remote="github" revision="lollipop" />
+  <project path="external/busybox" name="Euphoria-OS-Legacy/android_external_busybox" remote="Euphoria-OS-Legacy" revision="lollipop" />
   <project path="external/google" name="Euphoria-OS/android_external_google" remote="github" revision="lollipop" />
 
   <!-- Su -->
@@ -541,4 +541,6 @@
   <!-- CM Hardware -->
   <project path="frameworks/opt/hardware" name="Euphoria-OS-Legacy/android_frameworks_opt_hardware" remote="Euphoria-OS-Legacy" revision="lollipop" />
 
+  <!-- QCOM Sepolicy -->
+  <project path="device/qcom/sepolicy" name="Euphoria-OS-Legacy/android_device_qcom_sepolicy" remote="Euphoria-OS-Legacy" revision="lollipop" />
 </manifest>
