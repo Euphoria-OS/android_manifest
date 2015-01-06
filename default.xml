@@ -534,9 +534,10 @@
   <project path="packages/apps/CustomWallpapers" name="Euphoria-OS/android_packages_apps_CustomWallpapers" remote="github" revision="lollipop" />
   <project path="packages/apps/Eleven" name="Euphoria-OS/android_packages_apps_Eleven" remote="github" revision="lollipop" />
   <project path="packages/apps/LockClock" name="Euphoria-OS/android_packages_apps_LockClock" remote="github" revision="lollipop" />
-  <project path="packages/apps/OTACenter" name="Euphoria-OS/android_packages_apps_OTACenter" remote="github" revision="lollipop" />
-  <project path="packages/apps/TouchControl" name="Euphoria-OS/android_packages_apps_TouchControl" remote="github" revision="lollipop" />
   <project path="packages/apps/OpenDelta" name="Euphoria-OS/android_packages_apps_OpenDelta" remote="github" revision="lollipop" />
+  <project path="packages/apps/OTACenter" name="Euphoria-OS/android_packages_apps_OTACenter" remote="github" revision="lollipop" />
+  <project path="packages/apps/ScreenRecorder" name="Euphoria-OS/android_packages_apps_ScreenRecorder" remote="Euphoria-OS" revision="lollipop" />
+  <project path="packages/apps/TouchControl" name="Euphoria-OS/android_packages_apps_TouchControl" remote="github" revision="lollipop" />
 
   <!-- CM Hardware -->
   <project path="frameworks/opt/hardware" name="Euphoria-OS-Legacy/android_frameworks_opt_hardware" remote="Euphoria-OS-Legacy" revision="lollipop" />
