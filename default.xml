@@ -536,7 +536,7 @@
   <project path="packages/apps/LockClock" name="Euphoria-OS/android_packages_apps_LockClock" remote="github" revision="lollipop" />
   <project path="packages/apps/OpenDelta" name="Euphoria-OS/android_packages_apps_OpenDelta" remote="github" revision="lollipop" />
   <project path="packages/apps/OTACenter" name="Euphoria-OS/android_packages_apps_OTACenter" remote="github" revision="lollipop" />
-  <project path="packages/apps/ScreenRecorder" name="Euphoria-OS/android_packages_apps_ScreenRecorder" remote="Euphoria-OS" revision="lollipop" />
+  <project path="packages/apps/ScreenRecorder" name="Euphoria-OS/android_packages_apps_ScreenRecorder" remote="github" revision="lollipop" />
   <project path="packages/apps/TouchControl" name="Euphoria-OS/android_packages_apps_TouchControl" remote="github" revision="lollipop" />
 
   <!-- CM Hardware -->
