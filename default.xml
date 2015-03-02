@@ -31,7 +31,7 @@
   <project path="developers/demos" name="platform/developers/demos" />
   <project path="developers/docs" name="platform/developers/docs" />
   <project path="developers/samples/android" name="platform/developers/samples/android" />
-  <project path="development" name="platform/development" groups="pdk-cw-fs" />
+  <project path="development" name="Euphoria-OS-Legacy/android_development" groups="pdk-cw-fs" remote="Euphoria-OS-Legacy" revision="lollipop" />
   <project path="device/asus/deb" name="device/asus/deb" groups="device,flo" />
   <project path="device/asus/flo" name="Euphoria-OS/android_device_asus_flo" groups="device,flo" remote="github" revision="lollipop" />
   <project path="device/asus/flo-kernel" name="device/asus/flo-kernel" groups="device,flo" clone-depth="1" />
