@@ -22,7 +22,7 @@
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
   <project path="art" name="platform/art" groups="pdk" />
-  <project path="bionic" name="Euphoria-OS-Legacy/android_bionic" groups="pdk" remote="Euphoria-OS-Legacy" revision="lollipop" />
+  <project path="bionic" name="Euphoria-OS/android_bionic" groups="pdk" remote="github" revision="lollipop" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" groups="pdk-cw-fs" />
   <project path="bootable/recovery" name="platform/bootable/recovery" groups="pdk" />
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs" />
@@ -31,7 +31,7 @@
   <project path="developers/demos" name="platform/developers/demos" />
   <project path="developers/docs" name="platform/developers/docs" />
   <project path="developers/samples/android" name="platform/developers/samples/android" />
-  <project path="development" name="Euphoria-OS-Legacy/android_development" groups="pdk-cw-fs" remote="Euphoria-OS-Legacy" revision="lollipop" />
+  <project path="development" name="Euphoria-OS-Legacy/android_development" groups="pdk-cw-fs" remote="Euphoria-OS-Legacy" revision="lollipop-5.1" />
   <project path="device/asus/deb" name="device/asus/deb" groups="device,flo" />
   <project path="device/asus/flo" name="Euphoria-OS/android_device_asus_flo" groups="device,flo" remote="github" revision="lollipop" />
   <project path="device/asus/flo-kernel" name="device/asus/flo-kernel" groups="device,flo" clone-depth="1" />
@@ -159,7 +159,7 @@
   <project path="external/guava" name="platform/external/guava" groups="pdk-cw-fs,tradefed" />
   <project path="external/hamcrest" name="platform/external/hamcrest" groups="pdk-cw-fs,tradefed" />
   <project path="external/harfbuzz_ng" name="platform/external/harfbuzz_ng" groups="pdk-cw-fs,qcom_msm8x26" />
-  <project path="external/icu" name="Euphoria-OS-Legacy/android_external_icu" groups="pdk" remote="Euphoria-OS-Legacy" revision="lollipop" />
+  <project path="external/icu" name="Euphoria-OS-Legacy/android_external_icu" groups="pdk" remote="Euphoria-OS-Legacy" revision="lollipop-5.1" />
   <project path="external/iproute2" name="platform/external/iproute2" groups="pdk" />
   <project path="external/ipsec-tools" name="platform/external/ipsec-tools" groups="pdk-cw-fs" />
   <project path="external/iptables" name="platform/external/iptables" groups="pdk-cw-fs" />
@@ -259,7 +259,7 @@
   <project path="external/robolectric" name="platform/external/robolectric" groups="pdk-cw-fs" />
   <project path="external/safe-iop" name="platform/external/safe-iop" groups="pdk" />
   <project path="external/scrypt" name="platform/external/scrypt" groups="pdk" />
-  <project path="external/sepolicy" name="Euphoria-OS-Legacy/android_external_sepolicy" groups="pdk" remote="Euphoria-OS-Legacy" revision="lollipop" />
+  <project path="external/sepolicy" name="Euphoria-OS-Legacy/android_external_sepolicy" groups="pdk" remote="Euphoria-OS-Legacy" revision="lollipop-5.1" />
   <project path="external/sfntly" name="platform/external/sfntly" groups="pdk-cw-fs,qcom_msm8x26" />
   <project path="external/skia" name="platform/external/skia" groups="pdk-cw-fs,qcom_msm8x26" />
   <project path="external/smack" name="platform/external/smack" groups="pdk-cw-fs" />
@@ -307,7 +307,7 @@
   <project path="frameworks/opt/bluetooth" name="platform/frameworks/opt/bluetooth" groups="pdk-cw-fs" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" groups="pdk-cw-fs" />
   <project path="frameworks/opt/carddav" name="platform/frameworks/opt/carddav" groups="pdk-cw-fs" />
-  <project path="frameworks/opt/chips" name="Euphoria-OS-Legacy/android_frameworks_opt_chips" groups="pdk-cw-fs" remote="Euphoria-OS-Legacy" revision="lollipop" />
+  <project path="frameworks/opt/chips" name="Euphoria-OS-Legacy/android_frameworks_opt_chips" groups="pdk-cw-fs" remote="Euphoria-OS-Legacy" revision="lollipop-5.1" />
   <project path="frameworks/opt/colorpicker" name="platform/frameworks/opt/colorpicker" groups="pdk-cw-fs" />
   <project path="frameworks/opt/datetimepicker" name="Euphoria-OS/android_frameworks_opt_datetimepicker" groups="pdk-cw-fs" remote="github" revision="lollipop" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" groups="pdk-cw-fs" />
@@ -369,7 +369,7 @@
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" groups="omap3" />
   <project path="hardware/ti/omap4-aah" name="platform/hardware/ti/omap4-aah" groups="omap4-aah" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" groups="omap4" />
-  <project path="libcore" name="Euphoria-OS-Legacy/android_libcore" groups="pdk" remote="Euphoria-OS-Legacy" revision="lollipop" />
+  <project path="libcore" name="Euphoria-OS-Legacy/android_libcore" groups="pdk" remote="Euphoria-OS-Legacy" revision="lollipop-5.1" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
