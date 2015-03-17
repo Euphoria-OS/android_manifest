@@ -548,7 +548,4 @@
 
   <!-- CM Hardware -->
   <project path="frameworks/opt/hardware" name="Euphoria-OS-Legacy/android_frameworks_opt_hardware" remote="Euphoria-OS-Legacy" revision="lollipop" />
-
-  <!-- QCOM Sepolicy -->
-  <project path="device/qcom/sepolicy" name="Euphoria-OS-Legacy/android_device_qcom_sepolicy" remote="Euphoria-OS-Legacy" revision="lollipop" />
 </manifest>
