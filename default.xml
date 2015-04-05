@@ -197,7 +197,7 @@
   <project path="external/libopus" name="platform/external/libopus" groups="pdk" />
   <project path="external/libpcap" name="platform/external/libpcap" groups="pdk,pdk-cw-fs" />
   <project path="external/libphonenumber" name="platform/external/libphonenumber" groups="pdk-cw-fs" />
-  <project path="external/libpng" name="Euphoria-OS-Legacy/android_external_libpng" groups="pdk" remote="Euphoria-OS-Legacy" revision="lollipop" />
+  <project path="external/libpng" name="Euphoria-OS-Legacy/android_external_libpng" groups="pdk" remote="Euphoria-OS-Legacy" revision="lollipop-5.1" />
   <project path="external/libseccomp-helper" name="platform/external/libseccomp-helper" groups="pdk-cw-fs" />
   <project path="external/libselinux" name="platform/external/libselinux" groups="pdk" />
   <project path="external/libsepol" name="platform/external/libsepol" groups="pdk" />
@@ -528,7 +528,7 @@
 
   <!-- External -->
   <project path="external/android-visualizer" name="Euphoria-OS/android_external_android-visualizer" remote="github" revision="lollipop" />
-  <project path="external/busybox" name="Euphoria-OS-Legacy/android_external_busybox" remote="Euphoria-OS-Legacy" revision="lollipop" />
+  <project path="external/busybox" name="Euphoria-OS-Legacy/android_external_busybox" remote="Euphoria-OS-Legacy" revision="lollipop-5.1" />
   <project path="external/google" name="Euphoria-OS/android_external_google" remote="github" revision="lollipop" />
 
   <!-- Su -->
@@ -547,5 +547,5 @@
   <project path="packages/providers/ThemesProvider" name="Euphoria-OS/android_packages_providers_ThemesProvider" remote="github" revision="lollipop" />
 
   <!-- CM Hardware -->
-  <project path="frameworks/opt/hardware" name="Euphoria-OS-Legacy/android_frameworks_opt_hardware" remote="Euphoria-OS-Legacy" revision="lollipop" />
+  <project path="frameworks/opt/hardware" name="Euphoria-OS-Legacy/android_frameworks_opt_hardware" remote="Euphoria-OS-Legacy" revision="lollipop-5.1" />
 </manifest>
