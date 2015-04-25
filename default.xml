@@ -534,6 +534,7 @@
   <project path="packages/apps/Eleven" name="Euphoria-OS/android_packages_apps_Eleven" remote="github" revision="lollipop" />
   <project path="packages/apps/LockClock" name="Euphoria-OS/android_packages_apps_LockClock" remote="github" revision="lollipop" />
   <project path="packages/apps/OTACenter" name="Euphoria-OS/android_packages_apps_OTACenter" remote="github" revision="lollipop" />
+  <project path="packages/apps/Profiles" name="Euphoria-OS/android_packages_apps_Profiles" remote="github" revision="lollipop" />
   <project path="packages/apps/ScreenRecorder" name="Euphoria-OS/android_packages_apps_ScreenRecorder" remote="github" revision="lollipop" />
   <project path="packages/apps/ThemeChooser" name="Euphoria-OS/android_packages_apps_ThemeChooser" remote="github" revision="lollipop" />
   <project path="packages/apps/TouchControl" name="Euphoria-OS/android_packages_apps_TouchControl" remote="github" revision="lollipop" />
