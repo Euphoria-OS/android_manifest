@@ -543,4 +543,7 @@
 
   <!-- CM Hardware -->
   <project path="frameworks/opt/hardware" name="Euphoria-OS-Legacy/android_frameworks_opt_hardware" remote="Euphoria-OS-Legacy" revision="lollipop-5.1" />
+
+  <!-- CM SDK -->
+  <project path="vendor/cmsdk" name="Euphoria-OS-Legacy/cm_platform_sdk" remote="Euphoria-OS-Legacy" revision="lollipop-5.1" />
 </manifest>
