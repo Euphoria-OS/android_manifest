@@ -9,7 +9,8 @@
            sync-j="4" />
 
   <remote  name="github"
-           fetch="https://github.com" />
+           fetch="https://github.com"
+	   review="http://eosgerrit.ddns.net" />
 
   <remote  name="Euphoria-OS-Legacy"
            fetch="https://github.com" />
