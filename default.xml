@@ -10,7 +10,7 @@
 
   <remote  name="github"
            fetch="https://github.com"
-	   review="http://eosgerrit.ddns.net" />
+           review="http://eosgerrit.ddns.net" />
 
   <remote  name="Euphoria-OS-Legacy"
            fetch="https://github.com" />
@@ -310,7 +310,7 @@
   <project path="frameworks/opt/mms" name="platform/frameworks/opt/mms" groups="pdk-cw-fs" />
   <project path="frameworks/opt/net/ims" name="platform/frameworks/opt/net/ims" groups="frameworks_ims,pdk-cw-fs" />
   <project path="frameworks/opt/net/voip" name="platform/frameworks/opt/net/voip" groups="pdk-cw-fs" />
-  <project path="frameworks/opt/net/wifi" name="platform/frameworks/opt/net/wifi" groups="pdk" />
+  <project path="frameworks/opt/net/wifi" name="Euphoria-OS/android_frameworks_opt_net_wifi" groups="pdk" remote="github" revision="lollipop-5.1" />
   <project path="frameworks/opt/net/ethernet" name="platform/frameworks/opt/net/ethernet" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" groups="pdk-cw-fs" />
   <project path="frameworks/opt/setupwizard" name="platform/frameworks/opt/setupwizard" groups="pdk-cw-fs" />
