@@ -364,7 +364,7 @@
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" groups="omap3" />
   <project path="hardware/ti/omap4-aah" name="platform/hardware/ti/omap4-aah" groups="omap4-aah" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" groups="omap4" />
-  <project path="libcore" name="Euphoria-OS-Legacy/android_libcore" groups="pdk" remote="Euphoria-OS-Legacy" revision="lollipop-5.1" />
+  <project path="libcore" name="Euphoria-OS-Legacy/android_libcore" groups="pdk" remote="Euphoria-OS-Legacy" revision="lollipop-uber" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
