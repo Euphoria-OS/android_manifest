@@ -547,4 +547,7 @@
 
   <!-- CM SDK -->
   <project path="vendor/cmsdk" name="Euphoria-OS-Legacy/cm_platform_sdk" remote="Euphoria-OS-Legacy" revision="lollipop-5.1" />
+
+  <!-- Cards -->
+  <project path="frameworks/opt/cards" name="Euphoria-OS/android_frameworks_opt_cards" remote="github" revision="lollipop-5.1" />
 </manifest>
