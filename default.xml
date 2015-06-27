@@ -13,7 +13,8 @@
            review="http://eosgerrit.ddns.net" />
 
   <remote  name="Euphoria-OS-Legacy"
-           fetch="https://github.com" />
+           fetch="https://github.com"
+           review="http://eosgerrit.ddns.net" />
 
   <remote  name="MrTumbles"
            fetch="https://github.com" />
