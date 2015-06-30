@@ -10,11 +10,11 @@
 
   <remote  name="github"
            fetch="https://github.com"
-           review="http://eosgerrit.ddns.net" />
+           review="http://eosgerrit.ddns.net:51250" />
 
   <remote  name="Euphoria-OS-Legacy"
            fetch="https://github.com"
-           review="http://eosgerrit.ddns.net" />
+           review="http://eosgerrit.ddns.net:51250" />
 
   <remote  name="MrTumbles"
            fetch="https://github.com" />
