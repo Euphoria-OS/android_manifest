@@ -24,7 +24,7 @@
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
   <project path="art" name="Euphoria-OS-Legacy/android_art" groups="pdk" remote="Euphoria-OS-Legacy" revision="lollipop-5.1" />
-  <project path="bionic" name="Euphoria-OS/android_bionic" groups="pdk" remote="github" revision="lollipop-5.1" />
+  <project path="bionic" name="Euphoria-OS-Legacy/android_bionic" groups="pdk" remote="Euphoria-OS-Legacy" revision="lollipop-5.1" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" groups="pdk-cw-fs" />
   <project path="bootable/recovery" name="platform/bootable/recovery" groups="pdk" />
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs" />
@@ -33,7 +33,7 @@
   <project path="developers/demos" name="platform/developers/demos" />
   <project path="developers/docs" name="platform/developers/docs" />
   <project path="developers/samples/android" name="platform/developers/samples/android" />
-  <project path="development" name="Euphoria-OS/android_development" groups="pdk-cw-fs" remote="github" revision="lollipop-5.1" />
+  <project path="development" name="Euphoria-OS-Legacy/android_development" groups="pdk-cw-fs" remote="Euphoria-OS-Legacy" revision="lollipop-5.1" />
   <project path="device/asus/deb" name="device/asus/deb" groups="device,flo" />
   <project path="device/asus/flo" name="Euphoria-OS/android_device_asus_flo" groups="device,flo" remote="github" revision="lollipop-5.1" />
   <project path="device/asus/fugu" name="device/asus/fugu" groups="device,fugu" />
