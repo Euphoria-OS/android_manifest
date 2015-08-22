@@ -390,7 +390,6 @@
   <project path="packages/apps/InCallUI" name="Euphoria-OS/android_packages_apps_InCallUI" remote="github" revision="lollipop-5.1" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
-  <project path="packages/apps/Launcher3" name="Euphoria-OS/android_packages_apps_Launcher3" remote="github" revision="lollipop-5.1" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
   <project path="packages/apps/ManagedProvisioning" name="platform/packages/apps/ManagedProvisioning" />
   <project path="packages/apps/Mms" name="Euphoria-OS/android_packages_apps_Mms" remote="github" revision="lollipop-5.1" />
@@ -540,6 +539,7 @@
   <project path="packages/apps/ScreenRecorder" name="Euphoria-OS/android_packages_apps_ScreenRecorder" remote="github" revision="lollipop-5.1" />
   <project path="packages/apps/ThemeChooser" name="Euphoria-OS/android_packages_apps_ThemeChooser" remote="github" revision="lollipop-5.1" />
   <project path="packages/apps/TouchControl" name="Euphoria-OS/android_packages_apps_TouchControl" remote="github" revision="lollipop-5.1" />
+  <project path="packages/apps/Trebuchet" name="Euphoria-OS/android_packages_apps_Trebuchet" remote="github" revision="lollipop-5.1" />
   <project path="packages/apps/WallpaperPicker" name="Euphoria-OS/android_packages_apps_WallpaperPicker" remote="github" revision="lollipop-5.1" />
 
   <project path="packages/providers/ThemesProvider" name="Euphoria-OS/android_packages_providers_ThemesProvider" remote="github" revision="lollipop-5.1" />
