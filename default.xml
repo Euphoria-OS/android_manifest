@@ -540,7 +540,6 @@
   <project path="packages/apps/ThemeChooser" name="Euphoria-OS/android_packages_apps_ThemeChooser" remote="github" revision="lollipop-5.1" />
   <project path="packages/apps/TouchControl" name="Euphoria-OS/android_packages_apps_TouchControl" remote="github" revision="lollipop-5.1" />
   <project path="packages/apps/Trebuchet" name="Euphoria-OS/android_packages_apps_Trebuchet" remote="github" revision="lollipop-5.1" />
-  <project path="packages/apps/WallpaperPicker" name="Euphoria-OS/android_packages_apps_WallpaperPicker" remote="github" revision="lollipop-5.1" />
 
   <project path="packages/providers/ThemesProvider" name="Euphoria-OS/android_packages_providers_ThemesProvider" remote="github" revision="lollipop-5.1" />
 
