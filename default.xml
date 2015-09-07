@@ -19,6 +19,9 @@
   <remote  name="MrTumbles"
            fetch="https://github.com" />
 
+  <remote  name="bb"
+           fetch="https://bitbucket.org/" />
+
   <project path="build" name="Euphoria-OS/android_build" groups="pdk,tradefed" remote="github" revision="lollipop-5.1" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
