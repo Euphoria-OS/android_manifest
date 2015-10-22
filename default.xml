@@ -489,11 +489,13 @@
   <!-- External -->
   <project path="external/busybox" name="Euphoria-OS/android_external_busybox" remote="github" revision="marshmallow-6.0" />
   <project path="external/android-visualizer" name="Euphoria-OS/android_external_android-visualizer" remote="github" revision="marshmallow-6.0" />
+  <project path="external/google" name="Euphoria-OS/android_external_google" remote="github" revision="marshmallow-6.0" />
 
   <!-- Apps -->
   <project path="packages/apps/AudioFX" name="Euphoria-OS/android_packages_apps_AudioFX" remote="github" revision="marshmallow-6.0" />
   <project path="packages/apps/CustomWallpapers" name="Euphoria-OS/android_packages_apps_CustomWallpapers" remote="github" revision="marshmallow-6.0" />
   <project path="packages/apps/Eleven" name="Euphoria-OS/android_packages_apps_Eleven" remote="github" revision="marshmallow-6.0" />
+  <project path="packages/apps/LockClock" name="Euphoria-OS/android_packages_apps_LockClock" remote="github" revision="marshmallow-6.0" />
   <project path="packages/apps/OTACenter" name="Euphoria-OS/android_packages_apps_OTACenter" remote="github" revision="marshmallow-6.0" />
 
 </manifest>
